@@ -1,0 +1,21 @@
+{
+  "feature_names": [
+    "days_since_last_order",
+    "order_frequency",
+    "total_spent",
+    "loyalty_points",
+    "customer_tenure_days",
+    "age",
+    "gender_Male",
+    "gender_Other",
+    "city_Karachi",
+    "city_Lahore",
+    "city_Multan",
+    "city_Peshawar"
+  ],
+  "label_encoder_classes": [
+    "Active",
+    "Inactive"
+  ],
+  "model_accuracy": 0.49444444444444446
+}
